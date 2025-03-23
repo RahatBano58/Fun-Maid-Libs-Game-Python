@@ -8,7 +8,7 @@ This interactive web app allows you to create hilarious, AI-inspired stories usi
 3.  Sit back and enjoy a unique, funny sentence dynamically crafted from your inputs! 🎉"
    
 # 🛠️ Technologies Used
-. Python 🐍
-. Streamlit 🎈 (For interactive UI)
-. Random Module 🎲 (For sentence selection)
+Python 🐍
+Streamlit 🎈 (For interactive UI)
+Random Module 🎲 (For sentence selection)
 
